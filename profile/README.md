@@ -19,11 +19,13 @@ This is a space for awesome application of AI in Renewable Energy!
 
 If you are interested in the application of AI in renewable energy, do not wait to join it!
 
+🍿 任何学历，任何年龄的人工智能或者能源爱好者都可以加入！
+
 And you will enjoy a happy time here!
 
 # 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
-There has been some AI models for renewable energy, and we also are glad to receive your ideas and contribution!
+🧙 There has been some AI models for renewable energy, and we also are glad to receive your ideas and contribution!
 
 <!--
 
