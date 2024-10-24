@@ -1,5 +1,4 @@
 ## Hi there 👋
-![REAI](https://github.com/REAILAB/.github/assets/105758272/88410482-f223-46d6-9e0d-08e66fdec09c)
 
 # 🙋‍♀️ A short introduction - what is your organization all about?
 
