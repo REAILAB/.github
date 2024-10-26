@@ -15,7 +15,7 @@ REAILAB is a non-profit, enthusiast-driven organization dedicated to exploring t
 
 This is a space for awesome application of AI in Renewable Energy!
 
-# 🌈 Contribution guidelines - how can the community get involved?
+# 🌈 Contribution guidelines - how to get involved ?
 
 If you are interested in the application of AI in renewable energy, do not wait to join it!
 
