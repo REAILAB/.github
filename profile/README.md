@@ -1,6 +1,7 @@
 
 ## Hi there 👋
-![REAI](https://github.com/REAILAB/.github/assets/105758272/b8d5f0d1-a771-4042-a83d-ea701537133a)
+![image](https://github.com/user-attachments/assets/a638c262-5911-4aae-ac1d-474c3eab17b5)
+
 
 # 🙋‍♀️ A short introduction - what is your organization all about?
 
