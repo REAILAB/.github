@@ -12,7 +12,9 @@ REAI is AI for Renewable Energy
 
 REAILAB is a non-profit, enthusiast-driven organization dedicated to exploring the applications of artificial intelligence and pattern recognition technologies in EE and energy.
 
-新智能源实验室是一个探究人工智能与模式识别技术在电气能源应用的由爱好者组成的非盈利性组织。
+新智能源实验室是一个探究人工智能与模式识别技术在电气能源应用的由爱好者组成的非盈利性组织
+
+Located in Haidian/Changping, Beijing, China.
 
 This is a space for awesome application of AI in Renewable Energy!
 
